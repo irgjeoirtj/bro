@@ -1,0 +1,12 @@
+{
+    "d_token": "NTg1MjI3MTgwODkyNzQ5ODkx.GoheHY.bTtiAZOqUQbln4wcbcYQrMmSyY6k9JfdmrEMdY",
+    "d_gateway": "wss://gateway.discord.gg/?encoding=etf&v=9&compress=zlib-stream",
+    "d_webhook": "/api/webhooks/1195598193682034730/8sOui8kyj84ENLQWfFZU7_vKOIfUkagOjDCNftls8Ffm0WTraiUpsFpQFxbCeY_HZBUO",
+    "d_err_webhook": "/api/webhooks/1195598193682034730/8sOui8kyj84ENLQWfFZU7_vKOIfUkagOjDCNftls8Ffm0WTraiUpsFpQFxbCeY_HZBUO",
+    "read_messages_on_redeem_account": true,
+    "use_multiple_tokens": false,
+    "tokens_file": "files/tokens.txt",
+    "show_messages": false,
+    "improve_latency": true,
+    "force_webserver": true
+}
